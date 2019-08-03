@@ -1,7 +1,6 @@
+#Useful git commands
 `In this repository we are discuss the useful commands which are use for uploading the programs in repository.`
 
-
-#Useful git commands
 
 0- git init (initial, one time command in a folder, to make a folder git understandable and uploadable to cloud)
 
